@@ -7,3 +7,5 @@ Execute this file from the command line and give it an option with the challenge
 `ruby create_files.rb challenge_name`
 
 This will create a new folder named with the `challenge_name` with nested files for each student.
+
+There is an array called `names` in the executable file `create_files.rb` will need to be edited with each students name.
